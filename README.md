@@ -19,7 +19,7 @@ The API allows:
 
 ### Database
 
-Try your best to implement as much as you can from the given requirements and feel free to add more if you want to.
+Create two MongoDB database instances, one for development and one for testing.
 
 ### Environment
 
